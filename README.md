@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Legacy Web Portfolio
 
 This repository contains a collection of my early coding projects, consolidated from various individual repositories. These projects represent my learning journey in full-stack development, HTML/CSS, and React.
@@ -14,3 +15,6 @@ responsivewebhosting
 =======
 # resumebyhtmlcssjs
 >>>>>>> resumebyhtmlcssjs/main
+=======
+# weather-mk-1
+>>>>>>> weather-mk-1/main
